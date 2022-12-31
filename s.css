@@ -1,18 +1,24 @@
 
-header{height: 30px;
+body{background-color: rgb(227, 224, 221);}
+header{height: 40px;
     display: flex;
     justify-content: space-between;
-    background-color:transparent;
-}
+    }
+    h1{font-size: 30px;
+      display: flex;
+      align-items: center;}
 nav {display: flex;
     align-items: center;
     }
     nav a{text-decoration: none;
           margin: 10px;
-          color: green;
+          color: rgb(128, 0, 126);
+          font-size: 20px;
     }
-    nav span{font-size:20px ;
+    nav span{font: size 30px;
         color: black;}
+
+        
         /*landing page*/
 
       /******/
